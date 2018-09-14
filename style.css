@@ -7,5 +7,10 @@ img {
 h1 {
     font-family: 'Lato', sans-serif;
     text-align: center;
-    text-transform: capitalize
+    text-transform: capitalize;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+}
+p {
+    font-size: 20px;
 }
